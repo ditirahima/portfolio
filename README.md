@@ -12,10 +12,6 @@ Welcome to my professional portfolio. This repository serves as the central hub 
 - **SAP & ERP Operations:** Expert utilization of SAP and ERP modules for rigorous reporting, data integrity, and operational workflows.
 - **Financial Modeling:** Strategic planning and dashboard development to track key performance metrics.
 
-## Featured Projects
-- **Tesla H1 2026 Analysis:** Strategic performance review and interactive dashboard.
-- **Amazon Product Analysis:** Market positioning and category trend analysis.
-- **Netflix H1 2026 Dashboard:** Operational performance and interactive data visualization.
 
 ---
 *Connect with me to discuss data-driven solutions or supply chain excellence.*
